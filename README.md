@@ -1,5 +1,14 @@
 # agent-video-pipeline
 
+## 联系方式
+
+如需交流、合作或反馈，可通过微信联系：
+
+<p>
+  <img src="./assets/contact/wechat-search.png" alt="微信搜索：硅基小木" height="180">
+  <img src="./assets/contact/wechat-qr.png" alt="黄小木微信二维码" height="180">
+</p>
+
 完整版视频教程，请阅读[飞书完整教程](https://my.feishu.cn/docx/UOnkd0xPPoLNOrxSGrLcNGgGnGe?from=from_copylink)。
 
 把已经确认的口播稿做成带配音、字幕、画面、动画和质量检查的视频。需要时还能继续合成数字人。
