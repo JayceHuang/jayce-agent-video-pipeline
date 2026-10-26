@@ -1,9 +1,11 @@
 ---
-name: agent-video-pipeline
+name: jayce-agent-video-pipeline
 description: Orchestrate a configurable, debuggable local pipeline from approved narration packages to timed audio, captions, visual assets, semantic motion, rendered video, optional avatar compositing, publishing assets, and QC. Use for building, batch-producing, resuming, rerendering, or debugging explainer-video projects. Keep author identity, voice assets, CTA, illustration provider, canvas, avatar layout, brand, platform copy, delivery paths, and machine runtime in external profiles; use the separate adapt-longform-for-speech and compose-avatar-video Skills for those independent capabilities.
+metadata:
+  tags: "jayce-skill"
 ---
 
-# 通用 Agent 视频流水线
+# Jayce · 通用 Agent 视频流水线
 
 编排可复现、可调试、可增量重建的本地讲解视频。Skill 只保存通用流程、契约、Schema、provider adapter 和 QC；任何个人风格或本机路径必须通过外部配置注入。
 

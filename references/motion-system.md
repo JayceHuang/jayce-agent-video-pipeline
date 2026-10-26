@@ -1,6 +1,6 @@
 # 语义动效系统
 
-这份文件定义 `agent-video-pipeline` 的批量动效策略。目标不是让所有元素持续移动，而是让每个语义节点都有清楚、可复现、可降级的视觉动作。机器可读选型表见 [motion-catalog.json](motion-catalog.json)。
+这份文件定义 `jayce-agent-video-pipeline` 的批量动效策略。目标不是让所有元素持续移动，而是让每个语义节点都有清楚、可复现、可降级的视觉动作。机器可读选型表见 [motion-catalog.json](motion-catalog.json)。
 
 ## 目录
 

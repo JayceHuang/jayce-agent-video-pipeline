@@ -1,4 +1,4 @@
 interface:
-  display_name: "通用 Agent 视频流水线"
+  display_name: "Jayce · 通用 Agent 视频流水线"
   short_description: "将已批准口播稿编排为可校验、可恢复、可交付的视频生产流水线"
-  default_prompt: "使用 $agent-video-pipeline 读取外部 Profile，把已批准的口播稿生成经过门禁校验的视频及发布素材。"
+  default_prompt: "使用 $jayce-agent-video-pipeline 读取外部 Profile，把已批准的口播稿生成经过门禁校验的视频及发布素材。"

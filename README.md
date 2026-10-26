@@ -1,6 +1,8 @@
 联系方式在个人主页： [https://imhxm.com](https://imhxm.com)
 
-# agent-video-pipeline
+# jayce-agent-video-pipeline
+
+标签：[`jayce-skill`](https://github.com/topics/jayce-skill)
 
 ## 联系方式
 
@@ -28,9 +30,9 @@ macOS 或 Linux
 
 ```bash
 mkdir -p "$HOME/.codex/skills"
-git clone https://github.com/JayceHuang/agent-video-pipeline.git \
-  "$HOME/.codex/skills/agent-video-pipeline"
-cd "$HOME/.codex/skills/agent-video-pipeline"
+git clone https://github.com/JayceHuang/jayce-agent-video-pipeline.git \
+  "$HOME/.codex/skills/jayce-agent-video-pipeline"
+cd "$HOME/.codex/skills/jayce-agent-video-pipeline"
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -41,9 +43,9 @@ Windows PowerShell
 
 ```powershell
 New-Item -ItemType Directory -Force "$env:USERPROFILE\.codex\skills"
-git clone https://github.com/JayceHuang/agent-video-pipeline.git `
-  "$env:USERPROFILE\.codex\skills\agent-video-pipeline"
-Set-Location "$env:USERPROFILE\.codex\skills\agent-video-pipeline"
+git clone https://github.com/JayceHuang/jayce-agent-video-pipeline.git `
+  "$env:USERPROFILE\.codex\skills\jayce-agent-video-pipeline"
+Set-Location "$env:USERPROFILE\.codex\skills\jayce-agent-video-pipeline"
 
 py -m venv .venv
 .venv\Scripts\Activate.ps1
@@ -156,7 +158,7 @@ my-video/.pipeline/
 已经有口播稿时，可以直接告诉 Codex。
 
 ```text
-使用 agent-video-pipeline 处理这份口播稿。
+使用 jayce-agent-video-pipeline 处理这份口播稿。
 
 工作区是 /path/to/workspace
 项目目录是 /path/to/workspace/my-video

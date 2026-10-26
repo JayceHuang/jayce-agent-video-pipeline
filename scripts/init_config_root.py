@@ -87,7 +87,7 @@ def render_project(project_id: str) -> str:
 def render_readme() -> str:
     return """# Centralized Agent Video Configuration
 
-This directory is required by agent-video-pipeline.
+This directory is required by jayce-agent-video-pipeline.
 
 - `profiles/`: reusable neutral workspace profiles and optional explicit overrides
 - `runtime.local.yaml`: machine-local interpreters, models, and credentials references
